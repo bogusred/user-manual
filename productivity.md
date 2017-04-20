@@ -1,10 +1,4 @@
 
-# Task tracking
-
-- Bullet Journal
-  - [Get started guide](https://www.bustle.com/articles/168471-how-to-make-a-bullet-journal-a-step-by-step-guide)
-- Habitica (also acts as motivational prosthesis)
-
 # Time management
 
 - Pomodoro technique
@@ -20,3 +14,11 @@
 - Listen to motivational music
 - Don't keep email tab open all day. Just check it at specific intervals during day.
 - Don't start your day by reading emails. This means you'll end up getting other people's work done rather than your own.
+
+# Productivity systems and resources
+
+- [Zen to done](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/)
+- [Getting things done](http://gettingthingsdone.com/)
+- Bullet Journal
+  - [Get started guide](https://www.bustle.com/articles/168471-how-to-make-a-bullet-journal-a-step-by-step-guide)
+- [Habitica](https://habitica.com/) (also acts as motivational prosthesis)
