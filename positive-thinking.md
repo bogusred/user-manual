@@ -12,3 +12,6 @@ Reciding daily positive affirmations helps build positive thinking. Try to do th
 
 Spend 5-10 minutes a day visualizing yourself achieving your goals. You'll be more likely to get there. You can create a mood board or just imagine it in your head. Source: [Miracle Morning](http://a.co/aHOg0ga).
 
+# Happiness
+
+- [The surprising science of happiness](https://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy)
