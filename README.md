@@ -1,5 +1,13 @@
-# self-improvement
-Resources, thoughts on improving ones self for better happiness, health, and productivity
+# Susie's user manual
+
+The things I've learned along the way on how to manage and improving myself for better happiness, health, and productivity. I'm hoping this is useful to others who may also struggle with:
+- ADHD
+- Anxiety
+- Improving as an artist
+- Starting a business
+
+
+Resources, thoughts on 
 
 - TODO(bogusred): 
   - Reflection. journaling. weekly review.
