@@ -7,6 +7,21 @@ Reciding daily positive affirmations helps build positive thinking. Try to do th
 
 - [30 day affirmation challenge](media.briantracy.com/downloads/30day_infographic.pdf)
 - [Hal Elrod's daily affirmations](http://www.miraclemorning.com/) Request his miracle morning crash course
+- Steven Covey's 7 habits of highly successful people
+
+
+Metacognition (thinking what you're thinking about)
+- "When **negative thoughts** arise, I think about my thoughts and **reframe** those that don't serve me."
+
+Productivity
+- Perfect is the enemy of done
+- I start things even if I may *fear not doing it perfectly*. I will **not let perfectionism freeze me** from making progress.
+- When adding tasks I ask myself if it will take more than 20 minutes. If so, I will break it down and instead add a smaller task to my to-do list.
+
+Other themes useful to create affirmations around:
+- Confidence
+- Positive thinking
+- Gratitude
 
 # Visualization
 
