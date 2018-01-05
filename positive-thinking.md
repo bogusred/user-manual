@@ -23,6 +23,11 @@ Other themes useful to create affirmations around:
 - Positive thinking
 - Gratitude
 
+# Celebrate success
+
+- highlight the things in your journal you're proud to have accomplished or completed, even the small/simple tasks, especially if they took a long time to get done or required a lot of effort
+- share your accomplishments with others
+
 # Visualization
 
 Spend 5-10 minutes a day visualizing yourself achieving your goals. You'll be more likely to get there. You can create a mood board or just imagine it in your head. Source: [Miracle Morning](http://a.co/aHOg0ga).
