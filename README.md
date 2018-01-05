@@ -7,12 +7,12 @@ The things I've learned along the way on how to manage and improving myself for 
 - Starting a business
 
 
-Resources, thoughts on 
 
-- TODO(bogusred): 
-  - Reflection. journaling. weekly review.
-  - CBT thought record, meditation
-  - Add references throughout. habits of successful people.
-  - Review previous journal for productivity hacks/learnings
-  - record entrepreneur learnings/quotes, books, advice received
-  - habits page. habit tracker
+
+TODO(bogusred): 
+- Reflection. journaling. weekly review.
+- CBT thought record, meditation
+- Add references throughout. habits of successful people.
+- Review previous journal for productivity hacks/learnings
+- record entrepreneur learnings/quotes, books, advice received
+- habits page. habit tracker
