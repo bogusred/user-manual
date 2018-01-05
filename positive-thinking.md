@@ -25,8 +25,13 @@ Other themes useful to create affirmations around:
 
 # Celebrate success
 
+It is important for happiness and building confidence and momentum to acknowledge and celebrate completing things.
+
 - highlight the things in your journal you're proud to have accomplished or completed, even the small/simple tasks, especially if they took a long time to get done or required a lot of effort
 - share your accomplishments with others
+- treat yourself to a reward
+- for larger accomplishments, celebrate with a nice dinner out with others
+- in your BuJo you can do a weekly summary of your successes. This is a chance to reflect on a regular basis.
 
 # Visualization
 
