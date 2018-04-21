@@ -39,6 +39,11 @@ First 90 seconds interaction with a person is key to your likeability
 - Begin communications with showing your customers how much you value and appreciate them.
 
 
+## Practice
+
+- Practice these skills at social events, even with family/friends
+- Do weekly assessment to document what went right and wrong
+
 
 
 
