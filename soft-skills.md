@@ -38,6 +38,20 @@ First 90 seconds interaction with a person is key to your likeability
 - See things from your customers perspective
 - Begin communications with showing your customers how much you value and appreciate them.
 
+### Difficult people
+
+- For those not being respectful toward other community members
+  - Where possible, try to have this conversation over video or voice
+  - Remind them of the community guidelines
+  - it's ok to disagree
+  - be respectful toward others, no personal attacks
+- Sometimes people get angry, don't believe you, or you are unsuccessful in convincing them of something
+  - I have a tendancy to not let things go and want to put more energy into resolution. I keep going back and ruminating, even imagining having a conversation with the other person trying to resolve it. This is caused by the ADHD trait of not liking uncertainty. But this is ultimately unproductive.
+  - To resolve this, I must remember:
+    - I am not responsible for other people's feelings
+    - It's best not to expell energy on them as this will take away from more important things.
+    - "Bless them and release them." - Brett Thornhill
+    - "What someone else thinks of me is none of my business." - Brett Thornhill
 
 ## Practice
 
